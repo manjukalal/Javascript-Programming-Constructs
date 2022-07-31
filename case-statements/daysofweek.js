@@ -12,7 +12,7 @@ switch(randomCheck)
         console.log("DAY "+randomCheck+" IS WEDNESDAY");
         break;
     case 4:
-        console.log("DAY "+randomCheck+" IS THRSDAY");
+        console.log("DAY "+randomCheck+" IS THRUSDAY");
         break;
     case 5:
         console.log("DAY "+randomCheck+" IS FRIDAY");
